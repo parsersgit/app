@@ -1,0 +1,6 @@
+ultralytics==8.4.91
+streamlit>=1.42,<2.0
+opencv-python>=4.10,<5.0
+Pillow>=10.4,<13.0
+numpy>=1.26,<3.0
+
